@@ -31,7 +31,8 @@ url: "https://www.imuchen.wang" # the base hostname & protocol for your site, e.
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins: []
   # - jekyll-feed
 
